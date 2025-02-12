@@ -1,6 +1,6 @@
 # RAG-Hybrid-Search
 
-An AI-powered **Retrieval-Augmented Generation (RAG) pipeline** that enables **document search and interaction** using **FAISS and SentenceTransformers** for hybrid retrieval and **Groq's LLM** for generating contextual answers. It allows users to query and chat about indexed documents efficiently via a Streamlit interface.
+An AI-powered Retrieval-Augmented Generation (RAG) pipeline that enables document search and interaction using FAISS and SentenceTransformers for hybrid retrieval and Groq's LLM for generating contextual answers. It allows users to query and chat about indexed documents efficiently via a Streamlit interface.
 
 ---
 
